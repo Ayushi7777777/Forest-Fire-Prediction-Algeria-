@@ -1,4 +1,4 @@
- # Forest Fire Prediction (Algeria)
+ # Forest Fire Prediction (Algeria) (ML project)
 
 
 
@@ -21,5 +21,6 @@ A Flask-based web app predicting Forest Fire Weather Index (FWI) using regressio
 - `models/` – contains trained model and scaler
 - `templates/` – HTML templates
 - `EDA and FE...` – Notebook for analysis
+
 
 
