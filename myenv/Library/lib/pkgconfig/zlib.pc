@@ -1,0 +1,13 @@
+prefix=D:/B. tech/My ML Learning/first end to end project/myenv/Library
+exec_prefix=D:/B. tech/My ML Learning/first end to end project/myenv/Library
+libdir=D:/B. tech/My ML Learning/first end to end project/myenv/Library/lib
+sharedlibdir=D:/B. tech/My ML Learning/first end to end project/myenv/Library/lib
+includedir=D:/B. tech/My ML Learning/first end to end project/myenv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
